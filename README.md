@@ -4,8 +4,9 @@
 
 ---
 
-## Important:
+## Disclosures:
 As of the latest build, NeuraBrowser is still in Alpha with a lot of features to add and cleaning up to do. This project was published for testing and feedback purposes.
+NeuraBrowser is proprietary software. All rights reserved. You may not copy, modify, distribute, or use this software commercially without explicit permission.
 
 ## 🚀 Features
 
