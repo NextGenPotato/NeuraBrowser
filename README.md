@@ -4,100 +4,102 @@
 
 ---
 
-## Disclosures:
-As of the latest build, NeuraBrowser is still in Alpha with a lot of features to add and cleaning up to do. This project was published for testing and feedback purposes.
-NeuraBrowser is proprietary software. All rights reserved. You may not copy, modify, distribute, or use this software commercially without explicit permission.
+## ⚠️ Disclosures
+
+> **Alpha Notice**:  
+> NeuraBrowser is currently in **Alpha**. Many features are still under development, and the app is published for testing and feedback purposes only.
+
+> **License**:  
+> NeuraBrowser is **proprietary software**. All rights reserved. You may **not copy, modify, distribute, or use** this software commercially without **explicit permission**.
+
+---
 
 ## 🚀 Features
 
+### 🌐 Cross-Platform Compatibility
+- Works on **Android** and **iOS**  
+- Desktop support (Windows, macOS, Linux) coming soon  
 
-🌐 Cross-Platform Compatibility
-Works on Android and iOS
+---
 
+### 🧠 Neomorphic Design Aesthetic
+- Smooth, minimalist interface across all pages  
+- Floating navigation bar and merged URL bar with elegant transitions  
+- Nav and URL bar shrink while scrolling down and reappear when scrolling up  
 
-🧠 Neomorphic Design Aesthetic
-Smooth, minimalist interface across all pages
+---
 
-Floating navigation bar and merged URL bar with elegant transitions
+### 📑 Tab Management
+- Regular and **Incognito tabs** with isolated browsing states  
+- **Passcode/biometric lock** support for private tabs  
+- Lightweight and intuitive tab switching UI  
 
-UI elements optimized to shrink when scrolling down and reappear when scrolling up
+---
 
-📑 Tab Management
-Regular and Incognito tabs, each with isolated browsing states
+### 🔍 Smart URL & Navigation
+- Detects if input is a valid URL or a search query  
+- Clean auto-suggest bar and modern URL interaction  
+- Tap-and-clear input with clipboard and share options  
 
-passcode lock support for private tabs
+---
 
-Lightweight tab switching interface
+### 🕵️ Reader Mode
+- Distraction-free reading experience  
+- Similar to Chrome/Safari reader modes  
+- One-tap access to clean content view  
 
-🔍 Smart URL & Navigation
+---
 
-Auto-detects whether input is a URL or a search query
+### 💾 Download Manager
+- Sleek, modern download UI  
+- Long-press support on mobile platforms for file download  
+- List view of downloads with basic controls  
 
+---
 
+### ⭐ Bookmark System
+- Save and launch bookmarks directly from the homepage  
+- Add bookmarks via a polished dialog interface  
+- Automatically fetches favicons for visual organization  
 
-🕵️ Reader Mode
-Clean reader view for distraction-free reading
+---
 
-Similar to Chrome and Safari reader modes
+### 📜 Browsing History
+- Stored **locally** and organized by **date/time**  
+- Clean interface for navigating past visits  
+- Consistent design with the rest of the app  
 
-Accessed via one tap while browsing articles
+---
 
-💾 Download Manager
-Sleek UI with progress tracking
+### 🎯 Optimized UX
+- Smooth scroll behavior with nav/URL bar hide-and-show logic  
+- Mini URL preview when scrolling down  
+- Swipe gestures for back/forward navigation  
 
-Long-press on links to trigger downloads (Android/iOS)
+---
 
-Clear list of past downloads with controls
-
-⭐ Bookmark System
-Save, view, and launch bookmarks from the homepage
-
-Add bookmarks via a beautiful dialog interface
-
-Automatically fetches favicon for visual clarity
-
-📜 Browsing History
-Saved locally, grouped by date and time
-
-Intuitive design and consistent visual theme
-
-Easy to revisit recently visited pages
-
-🎯 Optimized UX
-Refined scrolling behavior with nav bar auto-hide
-
-Mini URL preview when controls are hidden
-
-Gesture support: swipe to go back/forward
-
-🧩 Performance & Bug Fixes
-Improved loading speeds and WebView reliability
-
-Resolved issue with Google search result redirects
-
-Enhanced overall app responsiveness
+### 🧩 Performance & Bug Fixes
+- Improved **loading speed** and **UI responsiveness**  
+- Fixed issue with Google search result redirects not loading  
+- Optimized WebView handling for smoother performance  
 
 ---
 
 ## 🔧 Built With
 
-- [Flutter](https://flutter.dev) – UI toolkit for building cross-platform applications  
-- Dart – Programming language used for Flutter development
+- [Flutter](https://flutter.dev) – Cross-platform UI toolkit  
+- **Dart** – Primary language for application logic  
 
 ---
 
 ## 📱 Platforms
 
-- Android
-- iOS 
-- Windows (To be released in the future)
-- macOS (To be released in the future)
-- Linux (To be released in the future)
+| Platform | Status |
+|----------|--------|
+| Android  | ✅ Available |
+| iOS      | ✅ Available |
+| Windows  | 🚧 Coming Soon |
+| macOS    | 🚧 Coming Soon |
+| Linux    | 🚧 Coming Soon |
 
 ---
-
-
-
-
-
-
