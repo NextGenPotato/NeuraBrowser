@@ -39,8 +39,8 @@ This license is automatically terminated if you violate any of its terms. Upon t
 To request licensing for commercial use, distribution rights, or custom permissions, please contact:
 
 **Basel Jaber**  
-Email: [you@example.com]  
-GitHub: [github.com/your-username]  
+Email: baseljbr@outlook.com  
+GitHub:github.com/NextGenPotato
 
 Unauthorized use of this Software is strictly prohibited and may result in legal action.
 
