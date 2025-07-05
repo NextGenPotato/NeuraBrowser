@@ -5,7 +5,7 @@
 ---
 
 ## Important:
-The latest version (1.0 Alpha Build 1.5) is the first build of NeuraBrowser to be released to the public for testing and feedback purposes. Some features may not be stable or work at all and they're being worked on in the next Alpha build.
+As of the latest build, NeuraBrowser is still in Alpha with a lot of features to add and cleaning up to do. This project was published for testing and feedback purposes.
 
 ## 🚀 Features
 
