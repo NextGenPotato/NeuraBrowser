@@ -10,12 +10,72 @@ NeuraBrowser is proprietary software. All rights reserved. You may not copy, mod
 
 ## 🚀 Features
 
-- 🌓 Dark mode (default) with toggle
-- 📑 Multi-tab system (regular and private)
-- 🔒 passcode lock for private tabs
-- 📖 Reader mode for distraction-free reading
-- 📥 Download manager UI
-- 🧹 Auto-clear history on exit
+
+🌐 Cross-Platform Compatibility
+Works on Android and iOS
+
+
+🧠 Neomorphic Design Aesthetic
+Smooth, minimalist interface across all pages
+
+Floating navigation bar and merged URL bar with elegant transitions
+
+UI elements optimized to shrink when scrolling down and reappear when scrolling up
+
+📑 Tab Management
+Regular and Incognito tabs, each with isolated browsing states
+
+passcode lock support for private tabs
+
+Lightweight tab switching interface
+
+🔍 Smart URL & Navigation
+
+Auto-detects whether input is a URL or a search query
+
+
+
+🕵️ Reader Mode
+Clean reader view for distraction-free reading
+
+Similar to Chrome and Safari reader modes
+
+Accessed via one tap while browsing articles
+
+💾 Download Manager
+Sleek UI with progress tracking
+
+Long-press on links to trigger downloads (Android/iOS)
+
+Clear list of past downloads with controls
+
+⭐ Bookmark System
+Save, view, and launch bookmarks from the homepage
+
+Add bookmarks via a beautiful dialog interface
+
+Automatically fetches favicon for visual clarity
+
+📜 Browsing History
+Saved locally, grouped by date and time
+
+Intuitive design and consistent visual theme
+
+Easy to revisit recently visited pages
+
+🎯 Optimized UX
+Refined scrolling behavior with nav bar auto-hide
+
+Mini URL preview when controls are hidden
+
+Gesture support: swipe to go back/forward
+
+🧩 Performance & Bug Fixes
+Improved loading speeds and WebView reliability
+
+Resolved issue with Google search result redirects
+
+Enhanced overall app responsiveness
 
 ---
 
@@ -29,14 +89,14 @@ NeuraBrowser is proprietary software. All rights reserved. You may not copy, mod
 ## 📱 Platforms
 
 - Android
-- iOS (To be released in the future)
+- iOS 
 - Windows (To be released in the future)
 - macOS (To be released in the future)
+- Linux (To be released in the future)
 
 ---
 
 
-Improved UI responsiveness and WebView performance for a smoother browsing experience.
 
 
 
